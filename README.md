@@ -11,6 +11,6 @@ So many exciting things are going to come.
 
 
 
-Founding Members:
+Founding Members:<br>
 Nitish Kumar<br>
 Vishal Sharma
